@@ -7,6 +7,6 @@
 - 🌱I’m currently engaged on Web Applications and OOPS
 - 👯 I’m looking to collaborate on github
 - 📫 How to reach me: nhsaiteja@gmail.com
-- 
+
 
 
